@@ -1,0 +1,15 @@
+# file system
+.DS_Store
+
+# ide
+.idea/**
+**.iml
+
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+DerivedData/
+.swiftpm/config/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
